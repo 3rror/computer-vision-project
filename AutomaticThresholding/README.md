@@ -16,7 +16,7 @@ binary version of an image.
 Compile the code
 
 ```shell
-javac AutomaticThresholding
+javac AutomaticThresholding.java
 ```
 
 Execute it

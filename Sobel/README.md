@@ -15,7 +15,7 @@ This algorithm applies the Sobel operator to implement basic edge detection.
 Compile the code
 
 ```shell
-javac Sobel
+javac Sobel.java
 ```
 
 Execute it
